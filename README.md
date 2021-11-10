@@ -7,6 +7,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # VARIAVEIS
 
-Criar arquivo .env e setar a Chave do GOogle Api
+Criar arquivo .env e setar a Chave do Google Api
 
-Explica~çao aqui: https://developers.google.com/maps/documentation/javascript/get-api-key
+Explicação aqui: https://developers.google.com/maps/documentation/javascript/get-api-key
+
+# IMAGENS
+img\img1.PNG
+img\img2.PNG
+
